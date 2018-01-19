@@ -1,2 +1,2 @@
 # MYPython
-Make Young Python.
+[Make Young Python](http://MYPython.CN/).
